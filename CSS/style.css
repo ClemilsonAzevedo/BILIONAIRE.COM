@@ -31,7 +31,6 @@
 body
 {
     height: 100vh;
-    width: 100%;
     font-family: fonte;
     background: linear-gradient(to right, #eacda3, #d6ae7b);
     color: var(--corletra);
@@ -42,6 +41,7 @@ header
     position: sticky;
     top: 0;
     display: flex;
+    font-size: 2.8vw;
     justify-content: space-around;
     background: linear-gradient(to bottom, #d8bc95, #c29f73);
     box-shadow: 2px 2px 5px #4646467e;
